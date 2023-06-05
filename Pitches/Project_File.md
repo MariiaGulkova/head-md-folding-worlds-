@@ -17,6 +17,7 @@ You open your eyes in a room with some scary trashed puppets. There is a dark br
 
 
 ### Visual Interaction Loop
+
 Our main interaction at the moment is contact with the shadow by touching. The second interaction is hiding from the shadow and avoiding touching. Touching the Shadow, you see yourself where you startedin the room again.
 
 
@@ -32,43 +33,43 @@ By Touching the shadow, we see ourself again in the same room. ( changing to a b
 
 ### Assets
 
-- Models
-Main Puppet
-Dead puppets
-Shadow
-Mirror
-bed
-trees
-monstrous stones
-Well
-Scary house tree
+#### Models
+- Main Puppet
+- Dead puppets
+- Shadow
+- Mirror
+- bed
+- trees
+- monstrous stones
+- Well
+- Scary house tree
 
-- Gestures
-Take a lamp (lantern) in our hand
-Touching the Shadow
+#### Gestures
+- Take a lamp (lantern) in our hand
+- Touching the Shadow
 
-- Sounds
-Voice of a person in the ear (Hide)
-footstep sounds
-the sounds of the dying
-wind sounds
-foliage sounds
-creak
+#### Sounds
+- Voice of a person in the ear (Hide)
+- footstep sounds
+- the sounds of the dying
+- wind sounds
+- foliage sounds
+- creak
 
 
 ### State Machines
 
 Describe all the objects in a Scene that need to have a "state". Don't worry about objects that don't change state.
 
-- Main puppet
-Moving to a Point
-Hiding: Sitting and Bending behind something
-Taking a lamp
+#### Main puppet
+- Moving to a Point
+- Hiding: Sitting and Bending behind something
+- Taking a lamp
 
-- Shadows
-Appear > Transparent at first
-waving
+#### Shadows
+- Appear > Transparent at first
+- waving
 
-- Mirror
-Not reflecting anything
-Reflect the monstrous puppet
+#### Mirror
+- Not reflecting anything
+- Reflect the monstrous puppet
