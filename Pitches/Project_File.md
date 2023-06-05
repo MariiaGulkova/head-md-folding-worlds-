@@ -13,8 +13,10 @@ You open your eyes in a room with some scary trashed puppets. There is a dark br
 
 ### Synopsis
 
-This is a "1 pager" that explains all the basics in one page. This is a text-based description of the project with maybe one illustration that accompagnies the text.
-Visual Interaction Loop
+<img src="images/Storyboard.png" width="400px">
+
+
+### Visual Interaction Loop
 Our main interaction at the moment is contact with the shadow by touching. The second interaction is hiding from the shadow and avoiding touching. Touching the Shadow, you see yourself where you startedin the room again.
 
 
