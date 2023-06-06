@@ -25,7 +25,8 @@ Our main interaction at the moment is contact with the shadow by touching. The s
 
 POV == Points of view. Describe all the POVs where the player can stand/float/be in the scene. Who are you, where are you, what do you see?
 We are a monstrous puppet not aware of who we are until the end of the experience.
-At first,  we are in a dark room full of dead puppets and a scary shadow.(The first sparkles of fear begins)
+
+- At first,  we are in a dark room full of dead puppets and a scary shadow.(The first sparkles of fear begins)
 Then, we walk inside the world of shadows (The world that gives us the chance to face our fears), 
 By Touching the shadow, we see ourself again in the same room. ( changing to a beautiful place although everything is the same as before)
 
